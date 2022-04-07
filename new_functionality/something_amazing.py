@@ -1,1 +1,1 @@
-print("Edvinuuuuuuška")
+print("Sveikas Igneli, čia merge konfliktas")
