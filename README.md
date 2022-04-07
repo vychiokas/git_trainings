@@ -1,1 +1,1 @@
-# git_trainings
+# Sveiki atvyke i git trainingus
