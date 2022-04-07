@@ -1,1 +1,1 @@
-print("Hello world")
+print("Cia bus merge konfliktas")
